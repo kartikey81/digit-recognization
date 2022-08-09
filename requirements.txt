@@ -14,8 +14,7 @@ pyparsing
 python-dateutil
 pytz
 requests
-opencv-python
-libgl1-mesa-glx
+opencv-python-headless
 six
 sklearn
 
