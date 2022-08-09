@@ -18,7 +18,7 @@ opencv-python
 
 six
 sklearn
-scikit-learn
+
 
 threadpoolctl
 urllib3
