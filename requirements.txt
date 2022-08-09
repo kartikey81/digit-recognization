@@ -1,16 +1,25 @@
 flask
 Jinja2
 joblibgunicorn
-kiwisolverMarkupSafematplotlib
+kiwisolver
+MarkupSafe
+matplotlib
 pandas
 numpy
 
 Pillow
 pipreqs
-pyparsingpython-dateutilpytzrequests
+pyparsing
+python-dateutil
+pytz
+requests
 opencv-python
 
-sixthreadpoolctlurllib3Werkzeugyarg
+six
+threadpoolctl
+urllib3
+Werkzeug
+yarg
 
 
 
