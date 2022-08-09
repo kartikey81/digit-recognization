@@ -21,7 +21,7 @@ threadpoolctl
 urllib3
 Werkzeug
 yarg
-
+sklearn
 
 
 
