@@ -17,15 +17,14 @@ requests
 opencv-python
 
 six
+
 threadpoolctl
 urllib3
 Werkzeug
 yarg
-sklearn
-scikit-learn
+nltk
 
 
 
 keras
 tensorflow-cpu
-
