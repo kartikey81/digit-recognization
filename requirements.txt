@@ -1,6 +1,7 @@
 flask
 Jinja2
-joblibgunicorn
+joblib
+gunicorn
 kiwisolver
 MarkupSafe
 matplotlib
