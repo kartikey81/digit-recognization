@@ -15,7 +15,7 @@ python-dateutil
 pytz
 requests
 opencv-python
-
+libgl1-mesa-glx
 six
 sklearn
 
